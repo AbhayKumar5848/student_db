@@ -6,7 +6,6 @@
 import mysql.connector
 from prettytable import PrettyTable
 
-
 # global variable for report
 school_name ='St. Francis De Sales School'
 school_address ='Thimmaiya Marg, narengi Guwahati Assam '
